@@ -1,0 +1,9 @@
+#!/bin/bash
+
+Nelson Mandela and Martin Luther King Jr. both fought for racial equality. Although Luther King was an American citizen and Mandela a native South African, their dreams were the same. The intolerance of white people towards black co-inhabitants was the catalyst for years of activism. Their battles were tumultuous – Nelson Mandela was arrested in 1962 for treason. Consequently, he was incarcerated for twenty-seven years. In contrast, although Luther King was detained several times, the longest jail sentence he received was four months. Both Mandela and Luther King have been awarded the Nobel Peace Prize for their dedication to improving civil rights for black people. Martin Luther King Jr. led many demonstrations against racism. He delivered his message in a non-violent manner, although other members of his movement later engaged in less peaceful protests. In contrast, Mandela initially avoided violence, but resorted to it following the government’s massacre of unarmed black Africans. Martin Luther King’s famous 1963 speech, “I Have a Dream”, inspired many African-Americans to envisage a better future. He was assassinated in 1968. During Nelson Mandela’s best known speech he recited “Our Deepest Fear”, an inspirational poem written by Marianne Williamson. In 1994, Mandela became the first black president of South Africa; he was the first president elected by the people.
+Martin Luther King Jr. led many demonstrations against racism. He delivered his
+Have a Dream”, inspired many African-Americans to envisage a better future. Luther
+Luther King Jr. both fought for racial equality. The intolerance of white people towards
+Marianne Williamson. Mandela initially avoided violence but ended up resorting to it
+
+
