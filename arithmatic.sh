@@ -14,3 +14,4 @@ echo "Multiplication of $a and $b is : "$sum
 sum=`expr $a / $b `
 echo "Dividing of $a an $b is : "$sum
 
+echo "script is completed"
