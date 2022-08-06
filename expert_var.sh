@@ -2,12 +2,11 @@
 
 declare -A map
 
-map["scri"]="script"
 map["devop"]="Devops"
 
 git init
 git checkout -b master
-git add add.sh
+git add * 
 git commit -m "committed a file"
 
 
